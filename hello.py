@@ -1,2 +1,2 @@
 def main(session):
-    return 'Hello Snowflake!'
+    return 'Hello Snowflake! How are you?'
